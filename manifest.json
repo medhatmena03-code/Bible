@@ -1,0 +1,21 @@
+{
+  "name": "مع المسيح كل يوم",
+  "short_name": "وعد يومي",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#d4af37",
+  "background_color": "#0f0c1e",
+  "description": "آية يومية من الكتاب المقدس مع إشعارات واهتزاز",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2903/2903510.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2903/2903510.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
